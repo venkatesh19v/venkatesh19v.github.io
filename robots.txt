@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://venkatesh19v.github.io/sitemap.xml
